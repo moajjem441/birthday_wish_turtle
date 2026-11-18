@@ -227,6 +227,7 @@ def draw_cake():
     for i in range(-100, 110, 20):
         static_pen.goto(i, -155)
         static_pen.dot(10, "#ffffff")
+        
 
     # Middle Layer
     draw_rectangle(
@@ -262,6 +263,7 @@ def draw_cake():
         )
 
         candles.append((cx, 25))
+
 
 
 # --- GLOBALS & STATE MACHINE ---
