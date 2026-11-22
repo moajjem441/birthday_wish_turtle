@@ -4,7 +4,7 @@ import random
 import math
 
 # --- CONFIGURATION ---
-BIRTHDAY_NAME = "Rahim"
+BIRTHDAY_NAME = "Joyena Islam"
 FPS = 30
 FRAME_DELAY = 1000 // FPS
 
